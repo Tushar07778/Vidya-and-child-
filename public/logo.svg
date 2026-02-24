@@ -1,0 +1,61 @@
+<svg width="520" height="140" xmlns="http://www.w3.org/2000/svg">
+  <!-- White background with subtle texture -->
+  <rect width="520" height="140" fill="#f8f9fa"/>
+  
+  <!-- Top: Vidya & Child text with underline -->
+  <text x="260" y="45" font-family="Georgia, serif" font-size="38" font-weight="bold" fill="#1e293b" font-style="italic" text-anchor="middle">Vidya & Child</text>
+  <line x1="200" y1="55" x2="500" y2="55" stroke="#dc2626" stroke-width="4"/>
+  
+  <!-- Left side: ABC letters -->
+  <text x="25" y="75" font-family="Arial Black, sans-serif" font-size="55" font-weight="bold" fill="#16a34a">A</text>
+  <text x="65" y="75" font-family="Arial Black, sans-serif" font-size="55" font-weight="bold" fill="#2563eb">B</text>
+  <text x="105" y="55" font-family="Arial Black, sans-serif" font-size="55" font-weight="bold" fill="#0891b2">C</text>
+  
+  <!-- Hindi text: विद्या -->
+  <text x="30" y="105" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#a855f7">विद्या</text>
+  
+  <!-- Hindi text: एवं -->  
+  <text x="130" y="105" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#dc2626">एवं</text>
+  
+  <!-- Hindi text: चाइल्ड -->
+  <text x="30" y="130" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#9333ea">चाइल्ड</text>
+  
+  <!-- Purple decorative shape -->
+  <path d="M 180 70 L 210 70 L 210 95 L 180 95 Z" fill="none" stroke="#8b5cf6" stroke-width="6"/>
+  
+  <!-- Child 1 - Yellow/Blue striped (center) -->
+  <circle cx="260" cy="75" r="12" fill="#fbbf24"/>
+  <ellipse cx="260" cy="95" rx="15" ry="18" fill="#60a5fa"/>
+  <line x1="260" y1="83" x2="260" y2="95" stroke="#fbbf24" stroke-width="3"/>
+  <circle cx="256" cy="73" r="2" fill="#000"/>
+  <circle cx="264" cy="73" r="2" fill="#000"/>
+  <path d="M 256 78 Q 260 80 264 78" stroke="#000" stroke-width="1.5" fill="none"/>
+  <!-- Arms -->
+  <line x1="245" y1="90" x2="235" y2="100" stroke="#fbbf24" stroke-width="4" stroke-linecap="round"/>
+  <line x1="275" y1="90" x2="285" y2="100" stroke="#fbbf24" stroke-width="4" stroke-linecap="round"/>
+  <!-- Legs -->
+  <line x1="252" y1="110" x2="245" y2="125" stroke="#60a5fa" stroke-width="4" stroke-linecap="round"/>
+  <line x1="268" y1="110" x2="275" y2="125" stroke="#60a5fa" stroke-width="4" stroke-linecap="round"/>
+  
+  <!-- Child 2 - Red hair, yellow/green dress (right) -->
+  <!-- Red hair -->
+  <ellipse cx="330" cy="68" rx="18" ry="10" fill="#dc2626"/>
+  <circle cx="330" cy="75" r="12" fill="#fbbf24"/>
+  <ellipse cx="330" cy="95" rx="20" ry="22" fill="#84cc16"/>
+  <circle cx="326" cy="73" r="2" fill="#000"/>
+  <circle cx="334" cy="73" r="2" fill="#000"/>
+  <path d="M 326 78 Q 330 80 334 78" stroke="#000" stroke-width="1.5" fill="none"/>
+  <!-- Arms -->
+  <line x1="310" y1="90" x2="300" y2="100" stroke="#eab308" stroke-width="4" stroke-linecap="round"/>
+  <line x1="350" y1="90" x2="360" y2="100" stroke="#eab308" stroke-width="4" stroke-linecap="round"/>
+  <!-- Legs -->
+  <line x1="320" y1="113" x2="315" y2="125" stroke="#84cc16" stroke-width="5" stroke-linecap="round"/>
+  <line x1="340" y1="113" x2="345" y2="125" stroke="#84cc16" stroke-width="5" stroke-linecap="round"/>
+  
+  <!-- Right side decorative brackets -->
+  <path d="M 380 70 L 400 70 L 400 95" fill="none" stroke="#dc2626" stroke-width="5"/>
+  <path d="M 410 70 L 430 70 L 430 95" fill="none" stroke="#2563eb" stroke-width="5"/>
+  
+  <!-- Bottom tagline -->
+  <text x="260" y="135" font-family="Arial, sans-serif" font-size="13" fill="#1e293b" font-style="italic" text-anchor="middle" font-weight="600">Education for Underprivileged Children</text>
+</svg>

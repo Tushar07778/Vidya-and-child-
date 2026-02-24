@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "default": "studio-3371461251-fe4e1",
+    "vidyaandchild": "studio-3371461251-fe4e1"
+  },
+  "targets": {
+    "studio-3371461251-fe4e1": {
+      "hosting": {
+        "app": [
+          "vidyaandchild"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

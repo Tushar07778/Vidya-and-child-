@@ -1,0 +1,7 @@
+{
+  "name": "Vidya & Child - Empowering Through Education",
+  "description": "A modern, high-impact web platform for Vidya & Child NGO, dedicated to providing holistic education and life skills to first-generation learners from economically disadvantaged backgrounds.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
